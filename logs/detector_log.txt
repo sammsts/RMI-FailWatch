@@ -1,0 +1,8 @@
+[Mon Jun 09 20:53:20 GMT-03:00 2025] [SUSPEITA] Falha detectada no nó: 127.0.0.1:5001
+[Mon Jun 09 20:53:20 GMT-03:00 2025] Monitor ouvindo na porta 5000
+[Mon Jun 09 20:56:49 GMT-03:00 2025] [SUSPEITA] Falha detectada no nó: 127.0.0.1:5001
+[Mon Jun 09 20:56:49 GMT-03:00 2025] Monitor ouvindo na porta 5000
+[Mon Jun 09 20:57:24 GMT-03:00 2025] Monitor ouvindo na porta 5000
+[Mon Jun 09 20:57:24 GMT-03:00 2025] [SUSPEITA] Falha detectada no nó: 127.0.0.1:5001
+[Mon Jun 09 21:03:07 GMT-03:00 2025] [SUSPEITA] Falha detectada no nó: 127.0.0.1:5001
+[Mon Jun 09 21:03:07 GMT-03:00 2025] Monitor ouvindo na porta 5000
